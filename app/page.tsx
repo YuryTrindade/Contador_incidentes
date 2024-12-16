@@ -1,10 +1,5 @@
-import ContadorIncidentes from './ContadorIncidentes'
+import ContadorIncidentes from '@/components/ContadorIncidentes'
 
 export default function Home() {
-  return (
-    <main className="min-h-screen">
-      <ContadorIncidentes />
-    </main>
-  )
+  return <ContadorIncidentes />
 }
-
