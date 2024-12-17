@@ -1,0 +1,4 @@
+# APLICAÇÂO CRIADA APENAS PARA A DIVERSÃO E ESTUDO #
+# FEITA COM AUXILIO DA IA V0 DA VERCEL #
+
+# URL DO CONTADOR = https://excp3lwxipetad9v.vercel.app/
